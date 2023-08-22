@@ -36,8 +36,6 @@ Built for developers, by developers.
 
 <br>
 
-> 🚩 Consider sponsoring this project to ensure the latest improvements, have your company logo listed here, and get priority support - visit [github.com/sponsors/m8sec](https://github.com/sponsors/m8sec)
-
 
 # Install
 Install the last stable release from PyPi:
@@ -46,7 +44,7 @@ pip3 install crosslinked
 ```
 Or, install the most recent code from GitHub:
 ```bash
-git clone https://github.com/m8sec/crosslinked
+git clone https://github.com/flurryunicorn/crosslinked
 cd crosslinked
 python3 setup.py install
 ```
@@ -171,4 +169,3 @@ Proxy arguments:
 Contribute to the project by:
 * Like and share the tool!
 * Create an issue to report any problems or, better yet, initiate a PR.
-* Reach out with any potential features or improvements [@m8sec](https://twitter.com/m8sec).
