@@ -2,15 +2,6 @@
     <h1>CrossLinked</h1>
 </div>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Version-v0.3.0-green"/>&nbsp;
-    <a href="https://www.twitter.com/m8sec">
-        <img src="https://img.shields.io/badge/Twitter-@m8sec-gray?logo=twitter"/>
-    </a>&nbsp;
-    <img src="https://img.shields.io/badge/python-3.6%20|%203.7%20|%203.8%20|%203.9%20|%203.10%20-blue.svg"/>&nbsp;
-</p>
-
-
 CrossLinked is a LinkedIn enumeration tool that uses search engine scraping to collect valid employee names from an 
 organization. This technique provides accurate results without the use of API keys, credentials, or accessing 
 LinkedIn directly!
@@ -32,11 +23,6 @@ LinkedIn directly!
 - [Command-Line Arguments](#command-line-arguments)
 - [Contribute](#contribute)
 
-
-# Sponsors
-[![proxycurl](https://m8sec.dev/images/sponsors/proxycurl.png)](https://nubela.co/proxycurl/?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=mike_m8sec)
-
-Scrape public LinkedIn profile data at scale with [Proxycurl APIs](https://nubela.co/proxycurl/?utm_campaign=influencer_marketing&utm_source=github&utm_medium=social&utm_content=mike_m8sec).
 
 • Scraping Public profiles are battle tested in court in HiQ VS LinkedIn case.<br/>
 • GDPR, CCPA, SOC2 compliant<br/>
